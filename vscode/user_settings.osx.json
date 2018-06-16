@@ -1,0 +1,76 @@
+{
+  "window.zoomLevel": -1,
+  "editor.fontFamily": "'OperatorMono-Book', 'FiraCode-Light'",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "solid",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.rulers": [
+    100
+  ],
+  "editor.scrollBeyondLastLine": true,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": true,
+  "editor.wordWrapColumn": 80,
+  "go.formatOnSave": false,
+  "markdown.preview.fontFamily": "'OperatorMono-Book', system-ui, 'Segoe WPC', 'Segoe UI', 'HelveticaNeue-Light', 'Ubuntu', 'Droid Sans', sans-serif",
+  "workbench.iconTheme": "material-icon-theme",
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": true,
+    "editor.wordWrapColumn": 80
+  },
+  "markdown-pdf.convertOnSave": true,
+  "markdown-pdf.highlightStyle": "github-gist.css",
+  "markdown-pdf.styles": [
+    "/Users/tomm/Documents/Markdown/github.css"
+  ],
+  "markdown-pdf.type": "html",
+  "files.trimTrailingWhitespace": false,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.scrollback": 5000,
+  "terminal.external.osxExec": "iTerm.app",
+  "[yaml]": {
+    "editor.tabSize": 4,
+    "editor.autoIndent": true
+  },
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.autoIndent": true
+  },
+  "python.linting.enabled": true,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "python.linting.lintOnSave": true,
+  "files.autoSave": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.pydocstyleEnabled": false,
+  "python.linting.pylintPath": "/usr/local/bin/pylint",
+  "input-assist.languages": [
+    "plaintext"
+  ],
+  "workbench.colorCustomizations": {
+    "editor.background": "#00322b28"
+  },
+  "ruby.rubocop.executePath": "/Users/tomm/.rvm/gems/ruby-2.4.1/wrappers/",
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "go.formatTool": "gofmt",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorTheme": "One Dark Pro",
+  "gitlens.keymap": "chorded",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true
+}
